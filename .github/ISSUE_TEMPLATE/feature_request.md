@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an addition or enhancement
 title: 🆕 Feature request -- ISSUE_TITLE_HERE
-labels: ''
+labels: "type: enhancement", "status: unreviewed"
 assignees: ''
 
 ---
