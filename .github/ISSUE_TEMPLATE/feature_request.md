@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
+about: Suggest an addition or enhancement
+title: \U0001F195 Feature request -- ISSUE_TITLE_HERE
 labels: ''
 assignees: ''
 
