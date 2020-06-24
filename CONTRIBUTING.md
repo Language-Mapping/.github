@@ -73,3 +73,9 @@ For a more detailed description of this, see:
 - [Stackoverflow post](https://stackoverflow.com/a/3580764/3908605)
 - [Official Git
   Documentation](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
+
+## Pull Request Guidelines
+
+Not all of this will apply to this project, but the majority of the info
+contained in our **Pull Request templates** can be seen in detail
+[here](https://raw.githubusercontent.com/Language-Mapping/.github/8550c16ea4ab0e1245763a0b3783eeacabe49d51/.github/PULL_REQUEST_TEMPLATE.md).

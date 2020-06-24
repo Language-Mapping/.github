@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Something did not work the way it should
-title: 🐛 Bug -- ISSUE_TITLE
-labels: 'type: bug, status: unreviewed'
-assignees: ''
+title: CONCISE_ISSUE_TITLE_HERE
+labels: "type: :bug: bug:bug:"
+assignees: ""
 
 ---
 
@@ -12,45 +12,38 @@ assignees: ''
   PLEASE REMOVE ANY INAPPLICABLE SECTIONS!
  -->
 
-### Basics
+## Summary
 
-#### Bug description
+Summarize the problem you are reporting.
 
-<!-- Summarize the problem you are reporting. -->
+## Expected behavior
 
-#### Expected behavior
+Describe what you expected to happen.
 
-<!-- Summarize what you expected to happen. -->
+## How to reproduce the problem
 
-#### How to reproduce the problem
-
-- [ ] Bug behavior is **not** reproducible
+If bug behavior is reproducible, describe the series of steps:
 
 <!--
-  Describe the series of steps required to reproduce the behavior:
-
   1. Use
   2. numeric
-  3. list
-  4. format.
+  3. lists
 -->
 
-### Evidence
+## Evidence
 
-#### Screenshots
+### Screenshots
 
-<!--
-  Add screenshots that illustrate the problem. You can copy/paste directly on
-  desktop, or upload on mobile.
--->
+Add screenshots that illustrate the problem. You can copy/paste or drag-and-drop
+directly on desktop, or upload on mobile.
 
-#### Errors
+### Errors
 
-<!-- Include console errors, warning popups, or command-line messages. -->
+Include console errors, warning popups, or command-line messages.
 
-### Environment
+## Environment
 
-<!-- If relevant, describe your platform. -->
+If relevant, describe your platform:
 
 - **URL/environment:** e.g. local, deployed, or production
 - **Browser:**
@@ -58,14 +51,14 @@ assignees: ''
 - **Device:**
 - **Branch:**
 
-### Related items
+## Related items
 
-<!-- Issues, PR's, files, commits, external links, etc. -->
+Issues, PR's, files, commits, external links, etc.
 
-### Resolution
+## Resolution
 
-<!-- Already know how to fix this? Let us know! -->
+Already know how to fix this? Holler!
 
-### Additional context
+## Additional context
 
-<!-- Add any other context about the problem here. -->
+Add any other context about the problem here.
