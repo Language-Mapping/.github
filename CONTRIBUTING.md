@@ -3,7 +3,7 @@
 We encourage people to make contributions to this project following these
 guidelines. If you are looking for ways to contribute, start with [issues
 flagged as "help
-wanted"](https://github.com/Covid-Self-report-Tool/cov-self-report-frontend/labels/help%20wanted).
+wanted"](https://github.com/Language-Mapping/language-map/labels/comm%3A%20%3Araising_hand%3A%20help%20wanted%3Araising_hand%3A).
 
 ## Pull Requests
 
@@ -21,14 +21,20 @@ you will be asked to break it into more focused pieces.
 
 ### Rebasing
 
-Avoid rebasing and force-pushing once you've opened a pull request. This rewrites history
-and makes it more difficult for the person reviewing your code to see active changes.
+Avoid rebasing and force-pushing once you've opened a pull request. This
+rewrites history and makes it more difficult for the person reviewing your code
+to see active changes.
 
 ## Branches
 
-Branch names should start with first letter of first name + last name, followed
-by a forward slash, and a descriptive message that explains the intention of the
-branch. Words should be separated by hyphens.
+If a branch corresponds directly to an issue, the branch name should be prefixed
+by the issue number and a period followed by a concise slug for the issue name
+(e.g. `423.user-avatar`).
+
+If there is no corresponding issue, branch names should start with first letter
+of first name + last name, followed by a forward slash, and a descriptive
+message that explains the intention of the branch. Words should be separated by
+hyphens.
 
 The important part is to use a consistent identifier as the first part of the
 branch name that makes it easy to tell who made the branch at a glance.
@@ -56,8 +62,8 @@ Basically your commit message should be able to fit inside this phrase:
 If applied, this commit will <commit message>
 ```
 
-For example, `add a map to visualize covid-19 cases` is in the present-tense,
-imperative and reads as: `If applied, this commit will add a map to visualize covid-19 cases`.
+For example, `add symbology to counties layer` is in the present-tense,
+imperative and reads as: `If applied, this commit will add symbology to counties layer`.
 
 It's easy to remember how to phrase it if you think of a commit message as
 giving an order to the codebase.
