@@ -9,18 +9,18 @@ assignees: ''
 
 <!-- PLEASE REMOVE ANY INAPPLICABLE SECTIONS! -->
 
-### Description
+## Description
 
 A clear and concise description of the issue.
 
-### Related items
+## Related items
 
 Issues, PR's, files, commits, external links, etc.
 
-### Resolution
+## Resolution
 
 Already know how to implement this? Holler!
 
-### Additional context
+## Additional context
 
 Add any other context about the issue here.

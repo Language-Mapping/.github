@@ -9,18 +9,18 @@ assignees: ''
 
 <!-- PLEASE REMOVE ANY INAPPLICABLE SECTIONS! -->
 
-### Description
+## Description
 
 A clear and concise description of what you want to happen.
 
-### Related items
+## Related items
 
 Issues, PR's, files, commits, external links, etc.
 
-### Resolution
+## Resolution
 
 Already know how to implement this? Let us know!
 
-### Additional context
+## Additional context
 
 Add any other context about the issue here.
